@@ -209,6 +209,10 @@ h1 em {
     color: #eab308;
 }
 
+.role-badge.junior {
+    color: #2abeeb;
+}
+
 .role-desc {
     font-size: 0.9rem;
     color: #999;
